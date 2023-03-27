@@ -1,0 +1,10 @@
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\bin\Debug\Picture_Box.exe.config
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\bin\Debug\Picture_Box.exe
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\bin\Debug\Picture_Box.pdb
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.AssemblyReference.cache
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.Form1.resources
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.Properties.Resources.resources
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.GenerateResource.cache
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.csproj.CoreCompileInputs.cache
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.exe
+C:\Users\zejd.avdic\Desktop\Dripcode\Tilprog\Windows_Form_Application\Picture Box\Picture_Box\Picture_Box\obj\Debug\Picture_Box.pdb
